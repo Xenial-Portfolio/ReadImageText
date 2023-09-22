@@ -1,0 +1,12 @@
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\bin\Debug\ReadImageText.exe.config
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\bin\Debug\ReadImageText.exe
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\bin\Debug\ReadImageText.pdb
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\bin\Debug\IronOcr.dll
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\bin\Debug\IronOcr.xml
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\obj\Debug\ReadImageText.csprojAssemblyReference.cache
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\obj\Debug\ReadImageText.ReadImageText.resources
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\obj\Debug\ReadImageText.Properties.Resources.resources
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\obj\Debug\ReadImageText.csproj.GenerateResource.cache
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\obj\Debug\ReadImageText.csproj.CopyComplete
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\obj\Debug\ReadImageText.exe
+F:\VSRepos\VSStudio\Learn C#\ReadImageText\obj\Debug\ReadImageText.pdb
